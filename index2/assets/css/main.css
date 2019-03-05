@@ -2120,6 +2120,10 @@ input, select, textarea {
 			padding-left: 0;
 		}
 
+		#nav ul li ul {
+			padding-left: 15;
+		}
+
 			#nav ul li a {
 				display: block;
 				padding: 0.5em 1.5em 0.5em 1.5em;
